@@ -9,6 +9,16 @@ sites:
     url: https://www.facebook.com/
   - name: Instagram
     url: https://www.instagram.com/
+  - name: Linktree hcsc25
+    url: https://linktr.ee/hcsc.25th
+  - name: bio.link hcsc25
+    url: https://hcsc_25th.bio.link/
+  - name: hcsc25 standby site
+    url: https://hcsc-25th.codeberg.page/
+  - name: hcsc25 odysee
+    url: https://odysee.com/@hcsc-25th:e
+  - name: hcsc25 youtube
+    url: https://www.youtube.com/channel/UCWjF0P7tWPG4x5DjNxPuuNQ
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

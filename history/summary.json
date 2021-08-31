@@ -94,19 +94,19 @@
     "url": "https://hcsc-25th.codeberg.page/",
     "icon": "https://favicons.githubusercontent.com/hcsc-25th.codeberg.page",
     "slug": "hcsc25-standby-site",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 722,
-    "timeDay": 722,
-    "timeWeek": 722,
-    "timeMonth": 722,
-    "timeYear": 722,
+    "status": "up",
+    "uptime": "94.44%",
+    "uptimeDay": "94.44%",
+    "uptimeWeek": "94.44%",
+    "uptimeMonth": "94.44%",
+    "uptimeYear": "94.44%",
+    "time": 677,
+    "timeDay": 677,
+    "timeWeek": 677,
+    "timeMonth": 677,
+    "timeYear": 677,
     "dailyMinutesDown": {
-      "2021-08-31": 0
+      "2021-08-31": 38
     }
   },
   {

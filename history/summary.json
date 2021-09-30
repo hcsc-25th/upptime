@@ -13,7 +13,7 @@
     "time": 88,
     "timeDay": 125,
     "timeWeek": 149,
-    "timeMonth": 88,
+    "timeMonth": 93,
     "timeYear": 88,
     "dailyMinutesDown": {}
   },
@@ -53,7 +53,7 @@
     "time": 1098,
     "timeDay": 592,
     "timeWeek": 489,
-    "timeMonth": 1098,
+    "timeMonth": 1130,
     "timeYear": 1098,
     "dailyMinutesDown": {
       "2021-09-29": 1,
@@ -122,9 +122,9 @@
     "url": "https://odysee.com/@hcsc-25th:e",
     "icon": "https://favicons.githubusercontent.com/odysee.com",
     "slug": "hcsc25-odysee",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
@@ -134,6 +134,7 @@
     "timeMonth": 774,
     "timeYear": 774,
     "dailyMinutesDown": {
+      "2021-09-30": 0,
       "2021-09-17": 20
     }
   },

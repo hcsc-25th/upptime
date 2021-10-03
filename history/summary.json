@@ -122,9 +122,9 @@
     "url": "https://odysee.com/@hcsc-25th:e",
     "icon": "https://favicons.githubusercontent.com/odysee.com",
     "slug": "hcsc25-odysee",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.88%",
@@ -134,6 +134,7 @@
     "timeMonth": 685,
     "timeYear": 711,
     "dailyMinutesDown": {
+      "2021-10-03": 0,
       "2021-09-30": 40,
       "2021-09-17": 20
     }

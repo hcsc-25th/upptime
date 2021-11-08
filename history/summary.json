@@ -43,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/www.instagram.com",
     "slug": "instagram",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.62%",
+    "uptimeYear": "99.63%",
     "time": 925,
     "timeDay": 643,
     "timeWeek": 1238,
@@ -55,7 +55,7 @@
     "timeYear": 925,
     "dailyMinutesDown": {
       "2021-10-04": 367,
-      "2021-09-02": 14
+      "2021-09-02": 7
     }
   },
   {
@@ -81,19 +81,19 @@
     "url": "https://hcsc_25th.bio.link/",
     "icon": "https://favicons.githubusercontent.com/hcsc_25th.bio.link",
     "slug": "bio-link-hcsc25",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 176,
-    "timeDay": 189,
-    "timeWeek": 232,
-    "timeMonth": 207,
-    "timeYear": 176,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 178,
+    "timeDay": 247,
+    "timeWeek": 246,
+    "timeMonth": 212,
+    "timeYear": 178,
     "dailyMinutesDown": {
-      "2021-11-08": 0
+      "2021-11-08": 15
     }
   },
   {

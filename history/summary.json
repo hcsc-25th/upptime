@@ -81,9 +81,9 @@
     "url": "https://hcsc_25th.bio.link/",
     "icon": "https://favicons.githubusercontent.com/hcsc_25th.bio.link",
     "slug": "bio-link-hcsc25",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -93,6 +93,7 @@
     "timeMonth": 185,
     "timeYear": 174,
     "dailyMinutesDown": {
+      "2021-12-28": 0,
       "2021-11-08": 15
     }
   },

@@ -3,6 +3,8 @@ owner: hcsc-25th # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
+  - name: NSSM
+    url: https://sc2022.wixsite.com/nssm
   - name: HCSC 25TH
     url: https://hcsc-25th.github.io/
   - name: Facebook
@@ -25,7 +27,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://hcsc-25th.github.io/s/img/profilePicture-20210612.png #https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://hcsc-25th.github.io/s/img/20211218-hcsc-nucleus.png #https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: HCSC 25 Upptime
   introTitle: "**HCSC 25 Upptime** is the uptime monitor and status page"
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)

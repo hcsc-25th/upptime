@@ -4,19 +4,19 @@
     "url": "https://sc2022.wixsite.com/nssm",
     "icon": "https://favicons.githubusercontent.com/sc2022.wixsite.com",
     "slug": "nssm",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 476,
-    "timeDay": 70,
-    "timeWeek": 476,
-    "timeMonth": 476,
-    "timeYear": 476,
+    "status": "up",
+    "uptime": "99.71%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.71%",
+    "time": 470,
+    "timeDay": 254,
+    "timeWeek": 470,
+    "timeMonth": 470,
+    "timeYear": 470,
     "dailyMinutesDown": {
-      "2022-01-02": 0
+      "2022-01-02": 18
     }
   },
   {

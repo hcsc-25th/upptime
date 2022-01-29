@@ -13,7 +13,7 @@
     "time": 350,
     "timeDay": 281,
     "timeWeek": 290,
-    "timeMonth": 326,
+    "timeMonth": 301,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2022-01-02": 18
@@ -33,7 +33,7 @@
     "time": 109,
     "timeDay": 117,
     "timeWeek": 116,
-    "timeMonth": 124,
+    "timeMonth": 127,
     "timeYear": 109,
     "dailyMinutesDown": {}
   },
@@ -51,7 +51,7 @@
     "time": 410,
     "timeDay": 128,
     "timeWeek": 212,
-    "timeMonth": 336,
+    "timeMonth": 338,
     "timeYear": 410,
     "dailyMinutesDown": {
       "2021-10-04": 367
@@ -71,7 +71,7 @@
     "time": 785,
     "timeDay": 1013,
     "timeWeek": 583,
-    "timeMonth": 674,
+    "timeMonth": 685,
     "timeYear": 785,
     "dailyMinutesDown": {
       "2021-10-04": 367,
@@ -92,7 +92,7 @@
     "time": 202,
     "timeDay": 798,
     "timeWeek": 193,
-    "timeMonth": 189,
+    "timeMonth": 194,
     "timeYear": 202,
     "dailyMinutesDown": {}
   },
@@ -110,7 +110,7 @@
     "time": 177,
     "timeDay": 245,
     "timeWeek": 198,
-    "timeMonth": 192,
+    "timeMonth": 194,
     "timeYear": 177,
     "dailyMinutesDown": {
       "2021-11-08": 15
@@ -121,16 +121,16 @@
     "url": "https://hcsc-25th.codeberg.page/",
     "icon": "https://favicons.githubusercontent.com/hcsc-25th.codeberg.page",
     "slug": "hcsc25-standby-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.01%",
-    "uptimeWeek": "99.72%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "99.71%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.89%",
     "time": 908,
     "timeDay": 1237,
     "timeWeek": 931,
-    "timeMonth": 1168,
+    "timeMonth": 1178,
     "timeYear": 908,
     "dailyMinutesDown": {
       "2022-01-29": 29,
@@ -156,7 +156,7 @@
     "time": 687,
     "timeDay": 220,
     "timeWeek": 303,
-    "timeMonth": 749,
+    "timeMonth": 765,
     "timeYear": 687,
     "dailyMinutesDown": {
       "2021-12-12": 53,

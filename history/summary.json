@@ -83,19 +83,19 @@
     "url": "https://linktr.ee/hcsc.25th",
     "icon": "https://favicons.githubusercontent.com/linktr.ee",
     "slug": "linktree-hcsc25",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "93.67%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.97%",
-    "time": 256,
-    "timeDay": 3862,
-    "timeWeek": 1656,
-    "timeMonth": 595,
-    "timeYear": 256,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "92.29%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.96%",
+    "time": 255,
+    "timeDay": 3098,
+    "timeWeek": 1509,
+    "timeMonth": 578,
+    "timeYear": 255,
     "dailyMinutesDown": {
-      "2022-03-14": 91
+      "2022-03-14": 111
     }
   },
   {

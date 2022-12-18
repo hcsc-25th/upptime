@@ -7,10 +7,10 @@ sites:
     url: https://sc2022.wixsite.com/nssm
   - name: HCSC 25TH
     url: https://hcsc-25th.github.io/
-  - name: Facebook
-    url: https://www.facebook.com/
-  - name: Instagram
-    url: https://www.instagram.com/
+  #- name: Facebook
+  #  url: https://www.facebook.com/
+  #- name: Instagram
+  #  url: https://www.instagram.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

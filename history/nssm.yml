@@ -1,7 +1,7 @@
 url: https://sc2022.wixsite.com/nssm
-status: up
-code: 200
-responseTime: 744
-lastUpdated: 2023-09-19T12:51:25.148Z
+status: down
+code: 502
+responseTime: 193
+lastUpdated: 2023-09-19T15:21:50.020Z
 startTime: 2021-12-29T08:01:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
